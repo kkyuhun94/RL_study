@@ -27,7 +27,13 @@
 * 모델 성능 개선으로 익히는 강화학습 A-Z - 박준영(패스트캠퍼스)
 
 
-### Paper Review
-* Reinforcement Learning for Combinatorial Optimization : A Survey - [PDF](https://github.com/kkyuhun94/RL_study/blob/master/paper_review/01.RLforCO.pdf)
-* Learning Efficient Online 3D Bin packing on Packing Configuration Trees - [PDF](https://github.com/kkyuhun94/RL_study/blob/master/paper_review/02.3DBPP.pdf)
+### Paper Review & Translation
+1. Reinforcement Learning for Combinatorial Optimization : A Survey 
+    * 원문 : https://arxiv.org/pdf/2003.03600.pdf 
+    * Review : [PDF](https://github.com/kkyuhun94/RL_study/blob/master/paper_review/01.RLforCO.pdf)
+    * Translation : 
+2. Learning Efficient Online 3D Bin packing on Packing Configuration Trees  
+    * 원문 링크 : https://openreview.net/pdf?id=bfuGjlCwAq
+    * Review : [PDF](https://github.com/kkyuhun94/RL_study/blob/master/paper_review/02.3DBPP.pdf)
+    * Translation : 
 
