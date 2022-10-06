@@ -1,14 +1,33 @@
 # RL_study
 
-### 1.바닥부터 배우는 강화학습 - 노승은
-* 1.[강화학습이란](https://github.com/kkyuhun94/AL_study/blob/master/chapter1.md)
-* 2.[마르코프 결정 프로세스(Markov Decision Process)](https://github.com/kkyuhun94/AL_study/blob/master/chapter2.md)
-* 3.벨만 방정식
-* 4.MDP를 알 때의 플래닝
-* 5.MDP를 모를 때 밸류 평가하기 
-* 6.MDP를 모를 때 최고의 정책 찾기
-* 7.Deep RL 첫 걸음
-* 8.가치 기반 에이전트
-* 9.정책 기반 에이전트
-* 10.알파고와 MCTS
-* 11.블레이드 & 소울 비무 AI 만들기 
+* 강화학습 개념 및 수식 이해 
+* 강화학습 기본 알고리즘 이론 학습 
+* 강화학습 논문 리뷰 
+
+
+
+
+### 강화학습 기초 및 이론 정리 
+1. RL_intro
+2. MDP&Bellman
+3. DP
+4. MC
+5. TD
+6. MC/TD Control
+7. 
+8. 
+
+
+
+### Reference
+- 공부 및 정리하는데 참고한 자료 출처  
+* 바닥부터 배우는 강화학습 - 노승은
+* 수학으로 풀어보는 강화학습 원리와 알고리즘
+* 강화학습 - 혁펜하임(youtube)
+* 모델 성능 개선으로 익히는 강화학습 A-Z - 박준영(패스트캠퍼스)
+
+
+### Paper Review
+* Reinforcement Learning for Combinatorial Optimization : A Survey
+* Learning Efficient Online 3D Bin packing on Packing Configuration Trees
+
