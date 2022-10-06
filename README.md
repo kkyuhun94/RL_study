@@ -3,7 +3,7 @@
 * 강화학습 개념 및 수식 이해 
 * 강화학습 기본 알고리즘 이론 학습 
 * 강화학습 논문 리뷰 
-
+* 강화학습 영어 논문 번역
 
 
 
@@ -31,9 +31,9 @@
 1. Reinforcement Learning for Combinatorial Optimization : A Survey 
     * 원문 : https://arxiv.org/pdf/2003.03600.pdf 
     * Review : [PDF](https://github.com/kkyuhun94/RL_study/blob/master/paper_review/01.RLforCO.pdf)
-    * Translation : 
+    * Translation : [논문 번역](https://github.com/kkyuhun94/RL_study/blob/master/paper_translation/01.RLforCO.md)
 2. Learning Efficient Online 3D Bin packing on Packing Configuration Trees  
     * 원문 링크 : https://openreview.net/pdf?id=bfuGjlCwAq
     * Review : [PDF](https://github.com/kkyuhun94/RL_study/blob/master/paper_review/02.3DBPP.pdf)
-    * Translation : 
+    * Translation : [논문 번역](https://github.com/kkyuhun94/RL_study/blob/master/paper_translation/02.3DBPP.md)
 
