@@ -1,4 +1,4 @@
-# AL_study
+# RL_study
 
 ### 1.바닥부터 배우는 강화학습 - 노승은
 * 1.[강화학습이란](https://github.com/kkyuhun94/AL_study/blob/master/chapter1.md)
