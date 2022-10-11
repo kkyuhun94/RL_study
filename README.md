@@ -10,9 +10,9 @@
 ### 강화학습 기초 및 이론 정리 
 1. RL_intro - [PDF](https://github.com/kkyuhun94/RL_study/blob/master/materials/01.RL_intro.pdf)
 2. MDP&Bellman - [PDF](https://github.com/kkyuhun94/RL_study/blob/master/materials/02.MDP&Bellman.pdf)
-3. DP - [PDF](https://github.com/kkyuhun94/TIL/tree/RL_study/blob/master/materials/03.DP.pdf)
-4. MC - [PDF](https://github.com/kkyuhun94/TIL/tree/RL_study/blob/master/materials/04.MC.pdf)
-5. TD - [PDF](https://github.com/kkyuhun94/TIL/tree/RL_study/blob/master/materials/05.TD.pdf)
+3. DP - [PDF](https://github.com/kkyuhun94/RL_study/blob/master/materials/03.DP.pdf)
+4. MC - [PDF](https://github.com/kkyuhun94/RL_study/blob/master/materials/04.MC.pdf)
+5. TD - [PDF](https://github.com/kkyuhun94/RL_study/blob/master/materials/05.TD.pdf)
 6. MC/TD Control - [PDF](https://github.com/kkyuhun94/RL_study/blob/master/materials/06.MC&TD_Control.pdf)
 7. 
 8. 
